@@ -9,9 +9,9 @@ It also shows and links to the latest episode
 # Variables become preferences in the app:
 
 * PODCAST_URL: **(required)** RSS Feed URL for Podcast.
-* RECORDING_DAYS_AFTER: _(optional)_ Number of days to warn before recording episode.
+* RECORDING_DAYS_AFTER: _(optional)_ Number of days (from publish date) to warn before recording episode. 
 * RECORDING_ACTION: _(optional)_ URL to run on click.
-* PUBLISH_DAYS_AFTER): _(optional)_ Number of days to warn before publishing episode.
+* PUBLISH_DAYS_AFTER): _(optional)_ Number of days (from publish date) to warn before publishing episode.
 * PUBLISH_ACTION: _(optional)_ URL to run on click.
 
 The Actions for for install instructions - https://github.com/kjaymiller/xbar-plugins
