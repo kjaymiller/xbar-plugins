@@ -10,8 +10,8 @@ It also shows and links to the latest episode
 
 * PODCAST_URL: **(required)** RSS Feed URL for Podcast.
 * RECORDING_DAYS_AFTER: _(optional)_ Number of days to warn before recording episode.
-* RECORDING_ACTION: (optional) URL to run on click.
-* PUBLISH_DAYS_AFTER): (optional) Number of days to warn before publishing episode.
-* PUBLISH_ACTION: (optional) URL to run on click.
+* RECORDING_ACTION: _(optional)_ URL to run on click.
+* PUBLISH_DAYS_AFTER): _(optional)_ Number of days to warn before publishing episode.
+* PUBLISH_ACTION: _(optional)_ URL to run on click.
 
-The Actions for Recording https://github.com/kjaymiller/xbar-plugins
+The Actions for for install instructions - https://github.com/kjaymiller/xbar-plugins
