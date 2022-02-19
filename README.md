@@ -11,3 +11,6 @@ Copy the file to your project directory.
 
 To ensure syncing between this project and xbar you should link the files
 `ln pod_sync.6h.py "$HOME/LibraryApplication Support/xbar/plugins"
+
+## Plugins
+[PodCountDown](./pod_countdown/)
