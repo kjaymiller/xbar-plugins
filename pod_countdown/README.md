@@ -1,3 +1,3 @@
-# PodCountdown
+# ![RSS Check](./images/rss-search.png) PodCountdown
 
-Checks a Podcast 
+Checks Date of Latest Podcast Episode and Alerts you when you should record or publish.
