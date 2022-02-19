@@ -3,7 +3,7 @@
 Checks Date of Latest Podcast Episode and Alerts you when you should record or publish.
 It also shows and links to the latest episode
 
-![image showing when good](./images/good-status.png)
+![image showing when good](./images/pod-countdown-status.jpeg)
 
 
 # Variables become preferences in the app:
